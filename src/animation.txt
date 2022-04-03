@@ -1,0 +1,11 @@
+frames: 1000
+speed: 10 fps
+2
+
+Circle
+r: 10
+x: 50
+y: 50
+Color: 
+border: 3
+.
